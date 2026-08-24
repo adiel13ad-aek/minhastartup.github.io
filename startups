@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Startup</title>
+</head>
+<body>
+    <h1>Minha Startup</h1>
+
+    <h2>Sobre nós</h2>
+    <p>Somos uma startup de tecnologia focada no desenvolvimento
+    de soluções inovadoras utilizando computação em nuvem e inteligência artificial.</p>
+
+    <h2>Nosso projeto</h2>
+    <p>Estamos desenvolvendo uma plataforma tecnológica utilizando
+    serviços em nuvem da AWS.</p>
+
+    <h2>Contato</h2>
+    <p>Email: adielrodriguesdemorais3@gmail.com</p>
+</body>
+</html>
